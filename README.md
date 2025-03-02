@@ -10,9 +10,11 @@ A powerful AI chatbot built using **Gradio** and **Google Generative AI** (Gemin
 - **Customizable creativity (temperature control)**
 
 ---
-![Screenshot 2025-03-02 140316](https://github.com/user-attachments/assets/4401c7f1-34f1-4b0f-8ed1-2dbe06389140)
+![Screenshot 2025-03-02 140316](https://github.com/user-attachments/assets/654fd48c-0392-4405-8288-59fab899cd2d)
 
-![Screenshot 2025-03-02 141729](https://github.com/user-attachments/assets/8cc78710-25a7-49f0-8869-3cf8fe619827)
+
+![Screenshot 2025-03-02 141729](https://github.com/user-attachments/assets/dcbec0ef-bd89-43b5-a505-cf2fb7865740)
+
 
 
 ## Installation & Setup
